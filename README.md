@@ -54,7 +54,7 @@ The calculator includes:
 ## Step 1: Download or Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/shreyamittalcs-maker/calculator-with-basic-mathematical-operations.git
 ```
 
 ---
